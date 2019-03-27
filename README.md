@@ -1,40 +1,27 @@
-# README #
+# Basic Python Scripts #
 
-This file contains necessary information pertaining to the project at hand. 
+This repository contains basic Python operations as mentioned in more detail below.
 
-### What is this repository for? ###
+## Resources ##
+The resources folder contains an Ontology folder which expands to introductory notebooks into using Ontologies and RDF.
 
-* Still figuring that out but basically, there are levels:
-	* Natural Language Processing
-	* Propositional and Predicate Calculus
-	* Ontologies sound fun too
-* [Trello Board](https://trello.com/b/jn11i3Dw/project-aj)
+### Intro Ontologies ###
+This notebook introduces the concept of Ontologies and their intended use.\
 
-### Concepts to be looked at ###
-* Ontologies
-* Machine learning
-* Deep learning
-* Propositional logic
-* Predicate logic
-* Natural Language Processing
-* Probably Python
-* Maybe some Microsoft Cognitive Services tech
+### RDF Examples ###
+This notebook provides examples of how to use RDF.
 
-### How do I get set up? ###
+## Scripts ##
+This folder contains a Files folder which stores the resources used by the Files notebook. It also contains a number of other notebooks.
 
-* [Install Python](https://realpython.com/installing-python/)
-* Ensure that pip or pip3 is installed, else [click here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pip)
-* Pick and install an IDE, preferably [Jupyter Notebook](http://jupyter.org/install)
-* Clone project: git clone https://bitbucket.org/teamajunicorn/project-aj.git/wiki
+### Creating plots from data frames ###
+This notebook briefly introduces the power behind dataframes and plotting their data for better visual analysis.
 
-### Contribution guidelines ###
+### Files ###
+This notebook explores a few cool tricks when working with files
 
-* Writing tests
-* Code review
-* Other guidelines
+### Python Templates ###
+This notebook takes a look at basic Python commands for first time Python coders.
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-* Basically there's just two of us, so yes.
+### Using Pandas ###
+This notebook takes a look at how pandas can be used by a beginner
