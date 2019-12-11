@@ -38,6 +38,9 @@ This notebook demonstrates manipulating JSON using Python.
 ### Message Notification ###
 These notebooks demonstrate how to build message notifications for Slack and Microsoft Teams from Python.
 
+### Server Monitoring ###
+This provides guidance on how to conduct server monitoring using CSVs as a data source or using a database as a data source. The data is then visualised using a Power BI report. The Power BI report is currently linked to the ServerMonitoring.csv file provided in this repo.
+
 ### Python Templates ###
 This notebook takes a look at basic Python commands for first time Python coders.
 
